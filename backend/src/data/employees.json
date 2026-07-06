@@ -1,0 +1,59 @@
+[
+  {
+    "email": "aditi.sde@novatech.com",
+    "name": "Aditi Sharma",
+    "designation": "Software Development Engineer",
+    "joining_date": "2024-03-14",
+    "ctc": {
+      "total": 1200000,
+      "base": 900000,
+      "bonus": 150000,
+      "benefits": 150000
+    },
+    "leaves": {
+      "paid_remaining": 12,
+      "paid_total": 30,
+      "unpaid_remaining": 30,
+      "unpaid_total": 30
+    },
+    "reporting_manager": "Priya Verma"
+  },
+  {
+    "email": "rohan.sales@novatech.com",
+    "name": "Rohan Mehta",
+    "designation": "Sales Executive",
+    "joining_date": "2023-07-02",
+    "ctc": {
+      "total": 750000,
+      "base": 600000,
+      "bonus": 75000,
+      "benefits": 75000
+    },
+    "leaves": {
+      "paid_remaining": 0,
+      "paid_total": 30,
+      "unpaid_remaining": 15,
+      "unpaid_total": 30
+    },
+    "reporting_manager": "Priya Verma"
+  },
+  {
+    "email": "priya.manager@novatech.com",
+    "name": "Priya Verma",
+    "designation": "Engineering Manager",
+    "joining_date": "2021-01-10",
+    "ctc": {
+      "total": 2200000,
+      "base": 1600000,
+      "bonus": 300000,
+      "benefits": 300000
+    },
+    "leaves": {
+      "paid_remaining": 20,
+      "paid_total": 30,
+      "unpaid_remaining": 30,
+      "unpaid_total": 30
+    },
+    "reporting_manager": "Founder/CEO (not part of chatbot scope)"
+  }
+]
