@@ -19,15 +19,15 @@ You can log in to test the application using any of the three pre-seeded account
 
 1. **Aditi Sharma** (Software Development Engineer)
    - **Email:** `aditi.sde@novatech.com`
-   - **Password:** `pass123`
+   - **Password:** `Aditi@123`
 
 2. **Rohan Mehta** (Sales Executive)
    - **Email:** `rohan.sales@novatech.com`
-   - **Password:** `pass123`
+   - **Password:** `Rohan@123`
 
 3. **Priya Verma** (Engineering Manager)
    - **Email:** `priya.manager@novatech.com`
-   - **Password:** `pass123`
+   - **Password:** `Priya@123`
 
 *Try asking about your leave balances while logged in as different users to see the personalized isolation working!*
 
